@@ -1,5 +1,5 @@
 {
-  "source": "https://github.com/reggi/node-generate.git",
+  "source": "https://github.com/luciandavies/node.git",
   "ignore": [
     "examples",
     "src",
